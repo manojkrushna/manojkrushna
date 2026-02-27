@@ -35,7 +35,7 @@ Senior Backend Engineer at **Digit General Insurance Ltd** (Finance Tech Cluster
     </td>
   </tr>
   <tr>
-    <td align="left"><b>Backend</b></td>
+    <td align="left"><b>Frameworks</b></td>
     <td>
       <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring" />
       <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="SpringBoot" />
