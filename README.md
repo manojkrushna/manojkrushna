@@ -3,8 +3,9 @@
   <p><b>Senior Java Backend Engineer</b></p>
 
   <p>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:manojkrushnamohata@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/manojkrushna"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:manojkrushnamohanta@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    <a href="mailto:manoj.krushna@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" /></a>
     <a href="https://github.com/manojkrushna"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 
@@ -26,31 +27,32 @@ Currently driving backend excellence at **Digit General Insurance Ltd** within t
 
 ### 💻 Tech Stack & Tools
 
-<table align="center">
+<table align="center" style="border-collapse: collapse; border: none;">
   <tr>
-    <td align="center" width="100"><b>Languages</b></td>
+    <td align="left"><b>Languages</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=java,python,js,cpp,dart,mysql" />
+      <img src="https://skillicons.dev/icons?i=java,python,js,cpp,dart,mysql" alt="Languages" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="100"><b>Frameworks</b></td>
+    <td align="left"><b>Frameworks</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=spring,hibernate,express" />
-      <img src="https://img.shields.io/badge/-Jersey-white?style=flat&logo=jakartaee&logoColor=red" alt="Jersey" />
+      <img src="https://skillicons.dev/icons?i=spring,hibernate,express" alt="Frameworks" />
+      <img src="https://img.shields.io/badge/JAX--RS_/_Jersey-FFEE58?style=flat&logo=jakartaee&logoColor=black" alt="Jersey JAX-RS" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="100"><b>Infra & Ops</b></td>
+    <td align="left"><b>Cloud & Ops</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=kafka,aws,docker,jenkins,git,github" />
+      <img src="https://skillicons.dev/icons?i=kafka,aws,docker,jenkins,git,github" alt="Infra" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="100"><b>Monitoring</b></td>
+    <td align="left"><b>Observability</b></td>
     <td>
-      <img src="https://img.shields.io/badge/-Dynatrace-734791?style=flat&logo=dynatrace&logoColor=white" alt="Dynatrace" />
-      <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
+      <img src="https://img.shields.io/badge/Dynatrace-734791?style=flat&logo=dynatrace&logoColor=white" alt="Dynatrace" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
     </td>
   </tr>
 </table>
@@ -87,8 +89,9 @@ Currently driving backend excellence at **Digit General Insurance Ltd** within t
 ### 🤝 Let's Connect
 
 - 💬 **Ask me about:** Java Performance Tuning, Distributed Transactions, or Microservices.
-- 📫 **Email:** [manojkrushnamohata@gmail.com](mailto:manojkrushnamohata@gmail.com)
-- ⚡ **Fun Fact:** I approach debugging like a detective—every log is a clue.
+- 📫 **Personal:** [manojkrushnamohanta@gmail.com](mailto:manojkrushnamohanta@gmail.com)
+- 📫 **Professional:** [manoj.krushna@outlook.com](mailto:manoj.krushna@outlook.com)
+- 🔗 **LinkedIn:** [manojkrushna](https://www.linkedin.com/in/manojkrushna)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=manojkrushna&color=blueviolet" alt="Profile Views" />
