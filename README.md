@@ -16,12 +16,12 @@
 
 ### 🚀 Professional Overview
 
-Currently driving backend excellence at **Digit General Insurance Ltd** within the **Finance Tech Cluster**. I specialize in building high-concurrency systems where data integrity and transaction atomicity are non-negotiable.
+Senior Backend Engineer at **Digit General Insurance Ltd** (Finance Tech Cluster). I architect high-concurrency systems where **Data Integrity**, **Transaction Atomicity**, and **Scalability** are the primary pillars.
 
-* 🏗️ **Architecture:** Scaling microservices to handle millions of insurance events.
-* 💳 **FinTech:** Core contributor to Premium Engines, Payout Services, and Claim Lifecycle Management.
-* 🛡️ **Security:** Hardening APIs with OAuth2, JWT, and fine-grained RBAC.
-* ⚡ **Optimization:** Reducing latency in high-volume financial transaction pipelines.
+* 🏗️ **Architecture:** Expert in Microservices and Event-Driven Design (EDA).
+* 💳 **FinTech:** Engineering Premium Engines, Payout Systems, and Claim Lifecycle Management.
+* 🛡️ **Security:** Implementing OAuth2, JWT, and robust RBAC frameworks.
+* ⚡ **Optimization:** High-performance tuning for financial transaction pipelines.
 
 ---
 
@@ -31,20 +31,25 @@ Currently driving backend excellence at **Digit General Insurance Ltd** within t
   <tr>
     <td align="left"><b>Languages</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=java,python,js,cpp,dart,mysql" alt="Languages" />
+      <img src="https://skillicons.dev/icons?i=java,python,js,cpp,dart" alt="Languages" />
     </td>
   </tr>
   <tr>
-    <td align="left"><b>Frameworks</b></td>
+    <td align="left"><b>Backend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=spring,hibernate,express" alt="Frameworks" />
-      <img src="https://img.shields.io/badge/JAX--RS_/_Jersey-FFEE58?style=flat&logo=jakartaee&logoColor=black" alt="Jersey JAX-RS" />
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring" />
+      <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="SpringBoot" />
+      <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=springsecurity&logoColor=white" alt="SpringSecurity" />
+      <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white" alt="Hibernate" />
+      <img src="https://img.shields.io/badge/JAX--RS_/_Jersey-FFEE58?style=flat&logo=jakartaee&logoColor=black" alt="JAX-RS" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
     </td>
   </tr>
   <tr>
-    <td align="left"><b>Cloud & Ops</b></td>
+    <td align="left"><b>Databases</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=kafka,aws,docker,jenkins,git,github" alt="Infra" />
+      <img src="https://img.shields.io/badge/IBM_DB2-052FAD?style=flat&logo=ibm&logoColor=white" alt="DB2" />
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="DBs" />
     </td>
   </tr>
   <tr>
@@ -52,7 +57,20 @@ Currently driving backend excellence at **Digit General Insurance Ltd** within t
     <td>
       <img src="https://img.shields.io/badge/Dynatrace-734791?style=flat&logo=dynatrace&logoColor=white" alt="Dynatrace" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
+      <img src="https://img.shields.io/badge/Bruno-B9FF66?style=flat&logo=bruno&logoColor=black" alt="Bruno" />
+      <img src="https://img.shields.io/badge/Hoppscotch-31C48D?style=flat&logo=hoppscotch&logoColor=white" alt="Hoppscotch" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left"><b>IDEs</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode" alt="IDEs" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left"><b>Infra & Ops</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=kafka,aws,docker,jenkins,git" alt="DevOps" />
     </td>
   </tr>
 </table>
@@ -89,9 +107,8 @@ Currently driving backend excellence at **Digit General Insurance Ltd** within t
 ### 🤝 Let's Connect
 
 - 💬 **Ask me about:** Java Performance Tuning, Distributed Transactions, or Microservices.
-- 📫 **Personal:** [manojkrushnamohanta@gmail.com](mailto:manojkrushnamohanta@gmail.com)
-- 📫 **Professional:** [manoj.krushna@outlook.com](mailto:manoj.krushna@outlook.com)
-- 🔗 **LinkedIn:** [manojkrushna](https://www.linkedin.com/in/manojkrushna)
+- 📫 **Work:** [manoj.krushna@outlook.com](mailto:manoj.krushna@outlook.com) | **Personal:** [manojkrushnamohanta@gmail.com](mailto:manojkrushnamohanta@gmail.com)
+- 🔗 **LinkedIn:** [/in/manojkrushna](https://www.linkedin.com/in/manojkrushna)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=manojkrushna&color=blueviolet" alt="Profile Views" />
