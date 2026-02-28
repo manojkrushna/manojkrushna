@@ -47,9 +47,13 @@ Senior Backend Engineer at **Digit General Insurance Ltd** (Finance Tech Cluster
   </tr>
   <tr>
     <td align="left"><b>Databases</b></td>
-    <td>
-      <<img src="https://cdn.iconscout.com/icon/free/png-256/free-ibm-db2-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-3-pack-logos-icons-226415.png" width="35" height="35" alt="DB2" style="vertical-align:middle;"/>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="DBs" />
+    <td style="vertical-align: middle;">
+      <img src="https://img.shields.io/badge/IBM_Db2-052FAD?style=flat&logo=ibmdb2&logoColor=white" alt="Db2" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="Postgres" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
+    </td>
     </td>
   </tr>
   <tr>
