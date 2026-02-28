@@ -48,8 +48,7 @@ Senior Backend Engineer at **Digit General Insurance Ltd** (Finance Tech Cluster
   <tr>
     <td align="left"><b>Databases</b></td>
     <td>
-      <img src="https://img.shields.io/badge/IBM_DB2-052FAD?style=flat&logo=ibm&logoColor=white" alt="DB2" />
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="DBs" />
+      <img src="https://skillicons.dev/icons?i=db2,postgres,mysql,mongodb,redis" alt="DBs" />
     </td>
   </tr>
   <tr>
