@@ -16,7 +16,7 @@
 
 ### 🚀 Professional Overview
 
-Senior Backend Engineer at **Digit General Insurance Ltd** (Finance Tech Cluster). I architect high-concurrency systems where **Data Integrity**, **Transaction Atomicity**, and **Scalability** are the primary pillars.
+Senior Software Engineer at **Digit General Insurance Ltd** (Finance Tech Cluster). I architect high-concurrency systems where **Data Integrity**, **Transaction Atomicity**, and **Scalability** are the primary pillars.
 
 * 🏗️ **Architecture:** Expert in Microservices and Event-Driven Design (EDA).
 * 💳 **FinTech:** Engineering Premium Engines, Payout Systems, and Claim Lifecycle Management.
