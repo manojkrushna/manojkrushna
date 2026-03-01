@@ -31,7 +31,7 @@ Senior Backend Engineer at **Digit General Insurance Ltd** (Finance Tech Cluster
   <tr>
     <td align="left"><b>Languages</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=java,python,js,cpp,dart" alt="Languages" />
+      <img src="https://skillicons.dev/icons?i=java,python,js,c,cpp,dart" alt="Languages" />
     </td>
   </tr>
   <tr>
