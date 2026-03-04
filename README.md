@@ -102,8 +102,8 @@ Senior Software Engineer at **Digit General Insurance Ltd** (Finance Tech Cluste
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manojkrushna&show_icons=true&theme=tokyonight&count_private=true" alt="Manoj's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojkrushna&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.anuraghazra.dev/api?username=manojkrushna&show_icons=true&theme=tokyonight&count_private=true" alt="Manoj's Stats" />
+  <img src="https://github-readme-stats.anuraghazra.dev/api/top-langs/?username=manojkrushna&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
