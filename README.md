@@ -34,17 +34,21 @@ Lead Engineer at **Digit General Insurance Ltd** (Finance Tech Cluster). I archi
       <img src="https://skillicons.dev/icons?i=java,python,js,c,cpp,dart" alt="Languages" />
     </td>
   </tr>
+
   <tr>
-    <td align="left"><b>Frameworks</b></td>
+    <td align="left"><b>Frameworks & Security</b></td>
     <td>
       <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring" />
       <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="SpringBoot" />
       <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=springsecurity&logoColor=white" alt="SpringSecurity" />
+      <img src="https://img.shields.io/badge/Keycloak-000000?style=flat&logo=keycloak&logoColor=white" alt="Keycloak" />
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT" />
       <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white" alt="Hibernate" />
       <img src="https://img.shields.io/badge/JAX--RS_/_Jersey-FFEE58?style=flat&logo=jakartaee&logoColor=black" alt="JAX-RS" />
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
     </td>
   </tr>
+
   <tr>
     <td align="left"><b>Databases</b></td>
     <td style="vertical-align: middle;">
@@ -53,28 +57,33 @@ Lead Engineer at **Digit General Insurance Ltd** (Finance Tech Cluster). I archi
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
-    </td>
-    </td>
+    </td> 
   </tr>
+
   <tr>
     <td align="left"><b>Observability</b></td>
     <td>
       <img src="https://img.shields.io/badge/Dynatrace-734791?style=flat&logo=dynatrace&logoColor=white" alt="Dynatrace" />
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" alt="Prometheus" />
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" alt="Grafana" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
       <img src="https://img.shields.io/badge/Bruno-B9FF66?style=flat&logo=bruno&logoColor=black" alt="Bruno" />
       <img src="https://img.shields.io/badge/Hoppscotch-31C48D?style=flat&logo=hoppscotch&logoColor=white" alt="Hoppscotch" />
     </td>
   </tr>
+
   <tr>
     <td align="left"><b>IDEs</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode" alt="IDEs" />
+      <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,androidstudio,pycharm" alt="IDEs" />
     </td>
   </tr>
+
   <tr>
     <td align="left"><b>Infra & Ops</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=kafka,aws,docker,jenkins,git" alt="DevOps" />
+      <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,aws,docker,jenkins,git" alt="DevOps" />
+      <img src="https://img.shields.io/badge/Amazon_SQS-FF9900?style=flat&logo=amazonsqs&logoColor=white" alt="Amazon SQS" />
     </td>
   </tr>
 </table>
