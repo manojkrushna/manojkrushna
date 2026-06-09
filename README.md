@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Manoj Krushna Mohanta</h1>
-  <p><b>Senior Java Backend Engineer</b></p>
+  <p><b>Lead Engineer</b></p>
 
   <p>
     <a href="https://www.linkedin.com/in/manojkrushna"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
