@@ -83,7 +83,6 @@ Lead Engineer at **Digit General Insurance Ltd** (Finance Tech Cluster). I archi
     <td align="left"><b>Infra & Ops</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,aws,docker,jenkins,git" alt="DevOps" />
-      <img src="https://img.shields.io/badge/Amazon_SQS-FF9900?style=flat&logo=amazonsqs&logoColor=white" alt="Amazon SQS" />
     </td>
   </tr>
 </table>
