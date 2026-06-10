@@ -91,13 +91,26 @@ Lead Engineer at **Digit General Insurance Ltd** (Finance Tech Cluster). I archi
 
 ### 💼 Experience Highlights
 
-#### **Digit General Insurance Ltd** | *Senior Software Engineer*
+#### **Go Digit General Insurance Ltd**
 📅 *July 2021 – Present*
 
-* **Financial Reliability:** Managed mission-critical payout services, ensuring zero-loss financial data consistency.
-* **System Design:** Transitioned legacy workflows into **Event-Driven Architectures** using Kafka & Amazon SQS.
-* **Production Excellence:** Leveraged **Dynatrace** for proactive bottleneck detection, maintaining 99.9% uptime for finance modules.
-* **Leadership:** Spearheading code quality initiatives and mentoring a team of 4+ junior developers.
+##### **Lead Engineer** *(July 2026 – Present)*
+* **Architecture & Governance:** Spearheading the technical roadmap for high-concurrency distributed systems within the Finance Tech Cluster.
+* **System Design:** Orchestrated the migration of mission-critical legacy modules into scalable, **Event-Driven Architectures (EDA)** using Kafka and distributed messaging infrastructure.
+* **Team Leadership:** Mentoring a team of junior and mid-level engineers, driving clean code practices, robust code reviews, and optimal system design patterns.
+
+##### **Senior Software Engineer** *(July 2024 – June 2026)*
+* **Financial Reliability:** Architected and managed high-throughput premium computation and payout engines, ensuring strict transaction atomicity and zero-loss financial data integrity.
+* **Ecosystem Hardening:** Integrated secure identity management workflows using Keycloak, OAuth2, and granular role-based access control (RBAC).
+* **Production Excellence:** Maintained 99.9% uptime for core financial pipelines by leveraging **Dynatrace** for distributed tracing, real-time metrics harvesting, and proactive bottleneck isolation.
+
+##### **Software Engineer** *(July 2022 – June 2024)*
+* **Microservices Development:** Designed and scaled core RESTful backend microservices utilizing Spring Boot, Hibernate, and relational databases (PostgreSQL/IBM Db2).
+* **Performance Tuning:** Optimized database access layers and introduced caching layers to dramatically reduce API response latencies for core transaction workflows.
+
+##### **Graduate Engineer Trainee (GET)** *(July 2021 – June 2022)*
+* **Core Engineering:** Assisted in development lifecycle tasks for insurance modules, writing clean, maintainable code in Java, and writing comprehensive integration tests.
+* **Platform Adaptation:** Mastered enterprise software patterns and collaborated closely with cross-functional teams to deploy production-ready updates.
 
 ---
 
