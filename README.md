@@ -108,7 +108,7 @@ Lead Engineer at **Digit General Insurance Ltd** (Finance Tech Cluster). I archi
 * **Microservices Development:** Designed and scaled core RESTful backend microservices utilizing Spring Boot, Hibernate, and relational databases (PostgreSQL/IBM Db2).
 * **Performance Tuning:** Optimized database access layers and introduced caching layers to dramatically reduce API response latencies for core transaction workflows.
 
-##### **Graduate Engineer Trainee (GET)** *(July 2021 – June 2022)*
+##### **Graduate Trainee Engineer (GTE)** *(July 2021 – June 2022)*
 * **Core Engineering:** Assisted in development lifecycle tasks for insurance modules, writing clean, maintainable code in Java, and writing comprehensive integration tests.
 * **Platform Adaptation:** Mastered enterprise software patterns and collaborated closely with cross-functional teams to deploy production-ready updates.
 
