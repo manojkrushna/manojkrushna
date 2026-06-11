@@ -143,29 +143,12 @@ Lead Engineer at **Digit General Insurance Ltd** (Finance Tech Cluster). I archi
 <br />
 
 <div align="center">
-  <!-- ROW 2: MOST USED LANGUAGES & WAKATIME METRICS -->
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <td width="49%" align="center" valign="top">
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=manojkrushna&layout=compact&theme=tokyonight&langs_count=6&count_private=true&hide_border=true&card_width=400" alt="Top Languages" width="100%" />
-      </td>
-      <td width="2%"></td>
-      <td width="49%" align="center" valign="top">
-        <img src="https://github-readme-stats.shion.dev/api/wakatime?username=manojkrushna&theme=tokyonight&layout=compact&hide_border=true" alt="Wakatime Stats" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br />
-
-<div align="center">
-  <!-- ROW 3: COMMITTING HABITS PER YEAR (CENTERED & OPTIMIZED) -->
+  <!-- ROW 2: MOST USED LANGUAGES (CENTERED & OPTIMIZED) -->
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
       <td width="25%"></td>
       <td width="50%" align="center" valign="top">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-y?username=manojkrushna&theme=tokyonight" alt="Commit Activity Per Year" width="100%" />
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=manojkrushna&layout=compact&theme=tokyonight&langs_count=6&count_private=true&hide_border=true&card_width=400" alt="Top Languages" width="100%" />
       </td>
       <td width="25%"></td>
     </tr>
@@ -181,7 +164,7 @@ Lead Engineer at **Digit General Insurance Ltd** (Finance Tech Cluster). I archi
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&omegaColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </div>
