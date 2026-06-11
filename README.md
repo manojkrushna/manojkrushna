@@ -160,16 +160,14 @@ Lead Engineer at **Digit General Insurance Ltd** (Finance Tech Cluster). I archi
 <br />
 
 <div align="center">
-  <!-- ROW 3: COMMITTING HABITS & PRODUCTIVE PROFILE ANALYSIS -->
+  <!-- ROW 3: COMMITTING HABITS PER YEAR (CENTERED & OPTIMIZED) -->
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
-      <td width="49%" align="center" valign="top">
+      <td width="25%"></td>
+      <td width="50%" align="center" valign="top">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-y?username=manojkrushna&theme=tokyonight" alt="Commit Activity Per Year" width="100%" />
       </td>
-      <td width="2%"></td>
-      <td width="49%" align="center" valign="top">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manojkrushna&theme=tokyonight" alt="Profile Summary Stats" width="100%" />
-      </td>
+      <td width="25%"></td>
     </tr>
   </table>
 </div>
