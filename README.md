@@ -116,18 +116,39 @@ Lead Engineer at **Digit General Insurance Ltd** (Finance Tech Cluster). I archi
   
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojkrushna&theme=tokyonight" alt="GitHub Streak" />
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojkrushna&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  <!-- GitHub Profile Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=manojkrushna&theme=tokyonight&column=4&margin-w=15" alt="GitHub Trophies" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.anuraghazra.dev/api?username=manojkrushna&show_icons=true&theme=tokyonight&count_private=true" alt="Manoj's Stats" />
-  <img src="https://github-readme-stats.anuraghazra.dev/api/top-langs/?username=manojkrushna&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <!-- Core GitHub Stats -->
+  <img src="https://github-readme-stats.anuraghazra.dev/api?username=manojkrushna&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Manoj's Stats" width="48%" />
+  <!-- Top Coding Languages -->
+  <img src="https://github-readme-stats.anuraghazra.dev/api/top-langs/?username=manojkrushna&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="48%" />
 </div>
+
+<br />
+
+#### 🛠️ Tech Stack & Ecosystem Distribution
+<div align="center">
+  <!-- Dynamically showcases your primary technical competencies with modern badging -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</div>
+
+<br />
 
 ---
 
