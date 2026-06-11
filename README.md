@@ -119,19 +119,17 @@ Lead Engineer at **Digit General Insurance Ltd** (Finance Tech Cluster). I archi
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <!-- Live Streak Stats Tracker -->
+  <!-- ROW 1: STREAK (LEFT) & CORE STATS (RIGHT) -->
   <img src="https://streak-stats.demolab.com?user=manojkrushna&theme=tokyonight" alt="GitHub Streak" width="49%" />
-  <!-- Fixed Active Profile Trophies Mirror Cluster Node -->
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=manojkrushna&theme=tokyonight&column=4&margin-w=15" alt="GitHub Trophies" width="49%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=manojkrushna&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Manoj's Stats" width="49%" />
 </div>
 
 <br />
 
 <div align="center">
-  <!-- High-Availability Live Mirror for Core Stats -->
-  <img src="https://github-readme-stats.shion.dev/api?username=manojkrushna&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Manoj's Stats" width="49%" />
-  <!-- High-Availability Live Mirror for Language Metrics -->
+  <!-- ROW 2: TOP LANGUAGES (LEFT) & TROPHIES (RIGHT) -->
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=manojkrushna&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="49%" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=manojkrushna&theme=tokyonight&column=4&margin-w=15" alt="GitHub Trophies" width="49%" />
 </div>
 
 <br />
