@@ -113,8 +113,7 @@ Lead Engineer at **Digit General Insurance Ltd** (Finance Tech Cluster). I archi
 ##### **🎓 Graduate Trainee Engineer (GTE)** *(July 2021 – June 2022)*
 * 🧩 **Core Engineering:** Developed critical backend components and UI layout updates within the **Allianz Business System (ABS)** for claim policy premium and refund calculation logic.
 * 📦 **Platform Adaptation:** Shipped clean RESTful APIs, executed database migrations on **IBM DB2**, and resolved **10+ critical application bugs** to maximize platform stability.
-
----
+  
 ---
 
 ### 📊 GitHub Activity
