@@ -119,7 +119,14 @@ Lead Engineer at **Digit General Insurance Ltd** (Finance Tech Cluster). I archi
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <!-- ROW 1: STREAK & CORE STATS (WITH PRIVATE REPO CONTRIB ENABLER) -->
+  <!-- 1. 12-Month Continuous Contribution Density Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manojkrushna&theme=tokyonight&no-bg=true&no-border=true" alt="Manoj's Contribution Graph" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
+  <!-- ROW 1: STREAK & CORE PROFILE STATS -->
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
       <td width="49%" align="center" valign="top">
@@ -136,7 +143,7 @@ Lead Engineer at **Digit General Insurance Ltd** (Finance Tech Cluster). I archi
 <br />
 
 <div align="center">
-  <!-- ROW 2: TOP LANGUAGES & TROPHIES (WITH PRIVATE REPO ANALYSIS) -->
+  <!-- ROW 2: MOST USED LANGUAGES & WAKATIME METRICS -->
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
       <td width="49%" align="center" valign="top">
@@ -144,7 +151,24 @@ Lead Engineer at **Digit General Insurance Ltd** (Finance Tech Cluster). I archi
       </td>
       <td width="2%"></td>
       <td width="49%" align="center" valign="top">
-        <img src="https://github-profile-trophy-fork-two.vercel.app/?username=manojkrushna&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-border=true" alt="GitHub Trophies" width="100%" />
+        <img src="https://github-readme-stats.shion.dev/api/wakatime?username=manojkrushna&theme=tokyonight&layout=compact&hide_border=true" alt="Wakatime Stats" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+<div align="center">
+  <!-- ROW 3: COMMITTING HABITS & PRODUCTIVE PROFILE ANALYSIS -->
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td width="49%" align="center" valign="top">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-y?username=manojkrushna&theme=tokyonight" alt="Commit Activity Per Year" width="100%" />
+      </td>
+      <td width="2%"></td>
+      <td width="49%" align="center" valign="top">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manojkrushna&theme=tokyonight" alt="Profile Summary Stats" width="100%" />
       </td>
     </tr>
   </table>
