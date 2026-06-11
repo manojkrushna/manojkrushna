@@ -119,17 +119,35 @@ Lead Engineer at **Digit General Insurance Ltd** (Finance Tech Cluster). I archi
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <!-- ROW 1: STREAK (LEFT) & CORE STATS (RIGHT) -->
-  <img src="https://streak-stats.demolab.com?user=manojkrushna&theme=tokyonight" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.shion.dev/api?username=manojkrushna&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Manoj's Stats" width="49%" />
+  <!-- ROW 1: STREAK & CORE STATS -->
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td width="49%" align="center" valign="top">
+        <img src="https://streak-stats.demolab.com?user=manojkrushna&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+      </td>
+      <td width="2%"></td>
+      <td width="49%" align="center" valign="top">
+        <img src="https://github-readme-stats.shion.dev/api?username=manojkrushna&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Manoj's Stats" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />
 
 <div align="center">
-  <!-- ROW 2: TOP LANGUAGES (LEFT) & TROPHIES (RIGHT) -->
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=manojkrushna&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="49%" />
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=manojkrushna&theme=tokyonight&column=4&margin-w=15" alt="GitHub Trophies" width="49%" />
+  <!-- ROW 2: TOP LANGUAGES & TROPHIES (GRID LOCKED & BALANCED) -->
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td width="49%" align="center" valign="top">
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=manojkrushna&layout=compact&theme=tokyonight&langs_count=6&hide_border=true&card_width=400" alt="Top Languages" width="100%" />
+      </td>
+      <td width="2%"></td>
+      <td width="49%" align="center" valign="top">
+        <img src="https://github-profile-trophy-fork-two.vercel.app/?username=manojkrushna&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-border=true" alt="GitHub Trophies" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />
@@ -138,10 +156,10 @@ Lead Engineer at **Digit General Insurance Ltd** (Finance Tech Cluster). I archi
 <div align="center">
   <!-- Dynamic Technology Badges -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </div>
