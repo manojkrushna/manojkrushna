@@ -89,29 +89,32 @@ Lead Engineer at **Digit General Insurance Ltd** (Finance Tech Cluster). I archi
 
 ---
 
-### 💼 Experience Highlights
+### 💼 Professional Experience Highlights
 
 #### **Go Digit General Insurance Ltd**
 📅 *July 2021 – Present*
 
-##### **Lead Engineer** *(July 2026 – Present)*
-* **Architecture & Governance:** Spearheading the technical roadmap for high-concurrency distributed systems within the Finance Tech Cluster.
-* **System Design:** Orchestrated the migration of mission-critical legacy modules into scalable, **Event-Driven Architectures (EDA)** using Kafka and distributed messaging infrastructure.
-* **Team Leadership:** Mentoring a team of junior and mid-level engineers, driving clean code practices, robust code reviews, and optimal system design patterns.
+##### **🎯 Lead Engineer** *(July 2026 – Present)*
+* 🏗️ **Architecture & Governance:** Spearheading the technical roadmap and governance blueprints for **high-concurrency distributed microservices** within the FinTech Cluster.
+* 👥 **Team Transition:** Moving into full team ownership to streamline engineering sprint execution, enforce **clean code standards**, and scale technical delivery.
 
-##### **Senior Software Engineer** *(July 2024 – June 2026)*
-* **Financial Reliability:** Architected and managed high-throughput premium computation and payout engines, ensuring strict transaction atomicity and zero-loss financial data integrity.
-* **Ecosystem Hardening:** Integrated secure identity management workflows using Keycloak, OAuth2, and granular role-based access control (RBAC).
-* **Production Excellence:** Maintained 99.9% uptime for core financial pipelines by leveraging **Dynatrace** for distributed tracing, real-time metrics harvesting, and proactive bottleneck isolation.
+##### **🚀 Senior Software Engineer** *(July 2024 – June 2026)*
+* 🪵 **Greenfield Architecture:** Designed and built the core **Claim Flow** and **Policy Issuance engines from scratch** for Digit Life Insurance.
+* 🔄 **System Design:** Orchestrated the migration of legacy system modules into scalable, **low-latency Event-Driven Architectures (EDA)** using **Kafka** and distributed messaging infrastructure.
+* ⚡ **Financial Reliability & Scalability:** Engineered high-volume premium computation and payout workflows using **Spring Batch**, **Kafka**, and **Amazon SQS**, architecting **35+ production-ready RESTful services** while ensuring **100% financial data integrity**.
+* 🔐 **Ecosystem Hardening:** Centralized secure identity management workflows using **Keycloak**, **OAuth2/JWT**, and granular **role-based access control (RBAC)**.
+* 📈 **Engineering Leadership:** Mentored a team of **5+ junior developers**, spearheaded rigorous code reviews, and managed team operations during leadership absences while maintaining **99.99% uptime** via **Dynatrace**.
 
-##### **Software Engineer** *(July 2022 – June 2024)*
-* **Microservices Development:** Designed and scaled core RESTful backend microservices utilizing Spring Boot, Hibernate, and relational databases (PostgreSQL/IBM Db2).
-* **Performance Tuning:** Optimized database access layers and introduced caching layers to dramatically reduce API response latencies for core transaction workflows.
+##### **💻 Software Engineer** *(July 2022 – June 2024)*
+* ⚙️ **Microservices Development:** Independently designed, owned, and scaled core backend infrastructure, delivering **25+ scalable RESTful microservices** utilizing **Java**, **Spring Boot**, **Hibernate**, and **IBM DB2 / PostgreSQL**.
+* ⏱️ **Performance Tuning:** Integrated **Redis caching** and optimized complex data layers, slashing **API p99 latency by over 40%** for critical premium, refund, and transaction workflows.
+* 🛠️ **Production Excellence:** Diagnosed and resolved high-priority production incidents, substantially driving down **Mean Time to Resolution (MTTR)**.
 
-##### **Graduate Trainee Engineer (GTE)** *(July 2021 – June 2022)*
-* **Core Engineering:** Assisted in development lifecycle tasks for insurance modules, writing clean, maintainable code in Java, and writing comprehensive integration tests.
-* **Platform Adaptation:** Mastered enterprise software patterns and collaborated closely with cross-functional teams to deploy production-ready updates.
+##### **🎓 Graduate Trainee Engineer (GTE)** *(July 2021 – June 2022)*
+* 🧩 **Core Engineering:** Developed critical backend components and UI layout updates within the **Allianz Business System (ABS)** for claim policy premium and refund calculation logic.
+* 📦 **Platform Adaptation:** Shipped clean RESTful APIs, executed database migrations on **IBM DB2**, and resolved **10+ critical application bugs** to maximize platform stability.
 
+---
 ---
 
 ### 📊 GitHub Activity
