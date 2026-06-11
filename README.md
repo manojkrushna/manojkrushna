@@ -149,7 +149,6 @@ Lead Engineer at **Digit General Insurance Ltd** (Finance Tech Cluster). I archi
       <td width="50%" align="center" valign="top">
         <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=manojkrushna&layout=compact&theme=tokyonight&langs_count=6&count_private=true&hide_border=true&card_width=400" alt="Top Languages" width="100%" />
       </td>
-      <td width="25%"></td>
     </tr>
   </table>
 </div>
