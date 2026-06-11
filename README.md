@@ -119,19 +119,19 @@ Lead Engineer at **Digit General Insurance Ltd** (Finance Tech Cluster). I archi
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojkrushna&theme=tokyonight" alt="GitHub Streak" width="48%" />
-  <!-- GitHub Profile Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=manojkrushna&theme=tokyonight&column=4&margin-w=15" alt="GitHub Trophies" width="100%" />
+  <!-- Fixed Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojkrushna&theme=tokyonight" alt="GitHub Streak" width="49%" />
+  <!-- Fixed GitHub Profile Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=manojkrushna&theme=tokyonight&column=4&margin-w=15" alt="GitHub Trophies" width="49%" />
 </div>
 
 <br />
 
 <div align="center">
-  <!-- Core GitHub Stats -->
-  <img src="https://github-readme-stats.anuraghazra.dev/api?username=manojkrushna&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Manoj's Stats" width="48%" />
-  <!-- Top Coding Languages -->
-  <img src="https://github-readme-stats.anuraghazra.dev/api/top-langs/?username=manojkrushna&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="48%" />
+  <!-- Fixed Main Stats via Stable Alternative Mirror -->
+  <img src="https://github-readme-stats-two.vercel.app/api?username=manojkrushna&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Manoj's Stats" width="49%" />
+  <!-- Fixed Top Coding Languages via Stable Alternative Mirror -->
+  <img src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=manojkrushna&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="49%" />
 </div>
 
 <br />
