@@ -119,7 +119,7 @@ Lead Engineer at **Digit General Insurance Ltd** (Finance Tech Cluster). I archi
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <!-- ROW 1: STREAK & CORE STATS -->
+  <!-- ROW 1: STREAK & CORE STATS (WITH PRIVATE REPO CONTRIB ENABLER) -->
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
       <td width="49%" align="center" valign="top">
@@ -136,11 +136,11 @@ Lead Engineer at **Digit General Insurance Ltd** (Finance Tech Cluster). I archi
 <br />
 
 <div align="center">
-  <!-- ROW 2: TOP LANGUAGES & TROPHIES (GRID LOCKED & BALANCED) -->
+  <!-- ROW 2: TOP LANGUAGES & TROPHIES (WITH PRIVATE REPO ANALYSIS) -->
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
       <td width="49%" align="center" valign="top">
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=manojkrushna&layout=compact&theme=tokyonight&langs_count=6&hide_border=true&card_width=400" alt="Top Languages" width="100%" />
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=manojkrushna&layout=compact&theme=tokyonight&langs_count=6&count_private=true&hide_border=true&card_width=400" alt="Top Languages" width="100%" />
       </td>
       <td width="2%"></td>
       <td width="49%" align="center" valign="top">
