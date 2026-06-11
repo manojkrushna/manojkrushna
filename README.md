@@ -119,26 +119,22 @@ Lead Engineer at **Digit General Insurance Ltd** (Finance Tech Cluster). I archi
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <!-- Fixed Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojkrushna&theme=tokyonight" alt="GitHub Streak" width="49%" />
-  <!-- Fixed GitHub Profile Trophies -->
+  <img src="https://streak-stats.demolab.com?user=manojkrushna&theme=tokyonight" alt="GitHub Streak" width="49%" />
   <img src="https://github-profile-trophy.vercel.app/?username=manojkrushna&theme=tokyonight&column=4&margin-w=15" alt="GitHub Trophies" width="49%" />
 </div>
 
 <br />
 
 <div align="center">
-  <!-- Fixed Main Stats via Stable Alternative Mirror -->
-  <img src="https://github-readme-stats-two.vercel.app/api?username=manojkrushna&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Manoj's Stats" width="49%" />
-  <!-- Fixed Top Coding Languages via Stable Alternative Mirror -->
-  <img src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=manojkrushna&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=manojkrushna&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Manoj's Stats" width="49%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=manojkrushna&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="49%" />
 </div>
 
 <br />
 
 #### 🛠️ Tech Stack & Ecosystem Distribution
 <div align="center">
-  <!-- Dynamically showcases your primary technical competencies with modern badging -->
+  <!-- Dynamic Technology Badges -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
