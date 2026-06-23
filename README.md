@@ -22,7 +22,7 @@ Lead Engineer at **Digit General Insurance Ltd** (Finance Tech Cluster). I archi
 * 💳 **FinTech:** Engineering Premium Engines, Payout Systems, and Claim Lifecycle Management.
 * 🛡️ **Security:** Implementing OAuth2, JWT, and robust RBAC frameworks.
 * ⚡ **Optimization:** High-performance tuning for financial transaction pipelines.
-
+---
 ---
 
 ### 💻 Tech Stack & Tools
