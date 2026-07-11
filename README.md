@@ -95,18 +95,18 @@ Lead Engineer at **Digit General Insurance Ltd** (Finance Tech Cluster). I archi
 #### **Go Digit General Insurance Ltd**
 📅 *July 2021 – Present*
 
-##### **🎯 Lead Engineer** *(July 2026 – Present)*
+##### **🎯 Lead Engineer** *(April 2026 – Present)*
 * 🏗️ **Architecture & Governance:** Spearheading the technical roadmap and governance blueprints for **high-concurrency distributed microservices** within the FinTech Cluster.
 * 👥 **Team Transition:** Moving into full team ownership to streamline engineering sprint execution, enforce **clean code standards**, and scale technical delivery.
 
-##### **🚀 Senior Software Engineer** *(July 2024 – June 2026)*
+##### **🚀 Senior Software Engineer** *(April 2024 – March 2026)*
 * 🪵 **Greenfield Architecture:** Designed and built the core **Claim Flow** and **Policy Issuance engines from scratch** for Digit Life Insurance.
 * 🔄 **System Design:** Orchestrated the migration of legacy system modules into scalable, **low-latency Event-Driven Architectures (EDA)** using **Kafka** and distributed messaging infrastructure.
 * ⚡ **Financial Reliability & Scalability:** Engineered high-volume premium computation and payout workflows using **Spring Batch**, **Kafka**, and **Amazon SQS**, architecting **35+ production-ready RESTful services** while ensuring **100% financial data integrity**.
 * 🔐 **Ecosystem Hardening:** Centralized secure identity management workflows using **Keycloak**, **OAuth2/JWT**, and granular **role-based access control (RBAC)**.
 * 📈 **Engineering Leadership:** Mentored a team of **5+ junior developers**, spearheaded rigorous code reviews, and managed team operations during leadership absences while maintaining **99.99% uptime** via **Dynatrace**.
 
-##### **💻 Software Engineer** *(July 2022 – June 2024)*
+##### **💻 Software Engineer** *(July 2022 – March 2024)*
 * ⚙️ **Microservices Development:** Independently designed, owned, and scaled core backend infrastructure, delivering **25+ scalable RESTful microservices** utilizing **Java**, **Spring Boot**, **Hibernate**, and **IBM DB2 / PostgreSQL**.
 * ⏱️ **Performance Tuning:** Integrated **Redis caching** and optimized complex data layers, slashing **API p99 latency by over 40%** for critical premium, refund, and transaction workflows.
 * 🛠️ **Production Excellence:** Diagnosed and resolved high-priority production incidents, substantially driving down **Mean Time to Resolution (MTTR)**.
