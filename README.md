@@ -91,7 +91,7 @@ Lead Engineer at **Digit General Insurance Ltd** (Finance Tech Cluster). I archi
 
 ### 💼 Professional Experience Highlights
 
-#### **Go Digit General Insurance Ltd**    |    📅 *July 2021 – Present*
+#### **Go Digit General Insurance Ltd**   |   📅 *July 2021 – Present*
 
 ##### **🎯 Lead Engineer** *(April 2026 – Present)*
 * 🏗️ **Architecture & Governance:** Spearheading the technical roadmap and governance blueprints for **high-concurrency distributed microservices** within the FinTech Cluster.
