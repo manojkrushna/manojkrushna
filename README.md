@@ -24,6 +24,7 @@ Lead Engineer at **Digit General Insurance Ltd** (Finance Tech Cluster). I archi
 * ⚡ **Optimization:** High-performance tuning for financial transaction pipelines.
 
 ---
+---
 
 ### 💻 Tech Stack & Tools
 
