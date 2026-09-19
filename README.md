@@ -13,7 +13,6 @@
 </div>
 
 ---
----
 
 ### 🚀 Professional Overview
 
@@ -121,36 +120,6 @@ Lead Engineer at **Digit General Insurance Ltd** (Finance Tech Cluster). I archi
 <div align="center">
   <!-- 1. 12-Month Continuous Contribution Density Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=manojkrushna&theme=tokyonight&no-bg=true&no-border=true" alt="Manoj's Contribution Graph" width="100%" />
-</div>
-
-<br />
-
-<div align="center">
-  <!-- ROW 1: STREAK & CORE PROFILE STATS -->
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <td width="49%" align="center" valign="top">
-        <img src="https://streak-stats.demolab.com?user=manojkrushna&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-      </td>
-      <td width="2%"></td>
-      <td width="49%" align="center" valign="top">
-        <img src="https://github-readme-stats.shion.dev/api?username=manojkrushna&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Manoj's Stats" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br />
-
-<div align="center">
-  <!-- ROW 2: MOST USED LANGUAGES (CENTERED & OPTIMIZED) -->
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=manojkrushna&layout=compact&theme=tokyonight&langs_count=6&count_private=true&hide_border=true&card_width=400" alt="Top Languages" width="100%" />
-      </td>
-    </tr>
-  </table>
 </div>
 
 <br />
