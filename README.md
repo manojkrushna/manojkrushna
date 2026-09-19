@@ -115,15 +115,6 @@ Lead Engineer at **Digit General Insurance Ltd** (Finance Tech Cluster). I archi
   
 ---
 
-### 📊 GitHub Activity & Metrics
-
-<div align="center">
-  <!-- 1. 12-Month Continuous Contribution Density Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manojkrushna&theme=tokyonight&no-bg=true&no-border=true" alt="Manoj's Contribution Graph" width="100%" />
-</div>
-
-<br />
-
 #### 🛠️ Tech Stack & Ecosystem Distribution
 <div align="center">
   <!-- Dynamic Technology Badges -->
